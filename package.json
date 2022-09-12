@@ -1,0 +1,7 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mateus Felipe Gonçalves <mateusfelipefg77@gmail.com>",
+  "license": "MIT"
+}
