@@ -3,6 +3,9 @@
   "type": "module",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
   "author": "Mateus Felipe Gonçalves <mateusfelipefg77@gmail.com>",
   "license": "MIT",
   "dependencies": {
